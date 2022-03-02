@@ -104,13 +104,27 @@ footer {
     left: 0px;
     position: fixed;
 }
-@media screen and (max-width: 800 px) {
+@media screen and (max-width: 800px) {
+    #jaipur, #jodhpur, #udaipur, #jaisalmer {
+        display: block;
+        width: 100%;
+    }
+    .city-text {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
     .city-img {
         width: 450px;
         height: 300px;
     }
+    #jaisalmer {
+        padding-bottom: 150px;
+    }
+    #jaisalmer img {
+        margin-bottom: 0px;
+    }
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 720px) {
     #jaipur, #jodhpur, #udaipur, #jaisalmer {
         display: block;
         width: 100%;
