@@ -104,6 +104,12 @@ footer {
     left: 0px;
     position: fixed;
 }
+@media screen and (max-width: 800 px) {
+    .city-img {
+        width: 450px;
+        height: 300px;
+    }
+}
 @media screen and (max-width: 700px) {
     #jaipur, #jodhpur, #udaipur, #jaisalmer {
         display: block;
