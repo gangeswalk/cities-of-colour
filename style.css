@@ -134,4 +134,8 @@ footer {
         padding-top: 40px;
         height: 100px;
     }
+    .city-img {
+        width: 400px;
+        height: 275px;
+    }
 }
