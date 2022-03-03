@@ -140,6 +140,10 @@ footer img {
     padding-top: 20px;
     height: 120px;
 }
+.city-img {
+    width: 340px;
+    height: 250px;
+}
 #jaipur {
     margin-top: 200px;
 }
