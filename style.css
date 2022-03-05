@@ -27,7 +27,8 @@ header li {
     display: inline-block;
     line-height: 85px;
     color: white;
-    padding-left: 20px;
+    /* padding-left: 10px; */
+    padding-right: 10px;
 }
 header li:hover {
     color: red;
@@ -118,7 +119,7 @@ footer p {
         margin-top: 30px;
     }
 }
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 735px) {
     header {
         height: 150px;
     }
