@@ -27,7 +27,6 @@ header li {
     display: inline-block;
     line-height: 85px;
     color: white;
-    /* padding-left: 10px; */
     padding-right: 10px;
 }
 header li:hover {
